@@ -6,7 +6,16 @@ Since 2019, I've been recording my menstruation dates using the Apple Health app
 By using this information, I'll analyze how my menstrual cycle influences my Netflix viewing habits.
 I aim to uncover patterns that reveal how hormonal changes impact entertainment consumption by examining trends in genre preferences and watch time. 
 
-# Goals
+# Objectives
 - **Identify Behavioral Patterns**: Explore whether there is a correlation between my menstruation and genres of the content that I watch.
 - **Analyze Correlations**: Utilize statistical techniques to measure relationships between my menstruation, genre preferences, and viewing duration.
 - **Apply Data Science Skills**: Use statistical techniques learned in DSA210 course to analyze data effectively.
+
+# Data Sources
+- **Apple Health App**: Menstruation dates are collected since 2019 and I created a TXT file by using this information.
+[menstruation_dates.csv.txt](https://github.com/user-attachments/files/19168553/menstruation_dates.csv.txt)
+- **Netflix Viewing History**: This data is provided by Netflix and I access the data that has recorded since 2018.
+[Uploading NetflixViewingHistory.csv…]()
+
+
+  

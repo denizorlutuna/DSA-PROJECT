@@ -71,14 +71,3 @@ By analyzing  these patterns, I aim to determine whether menstruation influences
 --
 
 I'm looking foeward to analyzing the data gaining a clearer understandingg of how my menstruation period affects my viewing habits, making this project a valuable exploration of my entertainment preferences.
-
-
-# Data Sources
-- **Apple Health App**: Menstruation dates are collected since 2019 and I created a TXT file by using this information.
-[menstruation_dates.csv.txt](https://github.com/user-attachments/files/19168553/menstruation_dates.csv.txt)
-- **Netflix Viewing History**: This data is provided by Netflix and I access the data that has recorded since 2018.
-[Uploading NetflixViewingHistory.csv…]()
-
-
-
-  

@@ -6,6 +6,7 @@ By using this information, I'll analyze how my menstrual cycle influences my Net
 I aim to uncover patterns that reveal how hormonal changes impact entertainment consumption by examining trends in genre preferences and watch time. 
 
 
+
 # Motivation
 During my menstruation period, I experience noticeable mood changes compared to other times, but I've never analyzed this shift objectively.
 This project provides an opportunity to quantify these changes by examining my Netflix viewing history, focusing on genre preferences and watch duration during menstruation versus regular periods.
@@ -15,12 +16,14 @@ Additionally, this project serves as a practical application of data science tec
 Through this study, I hope to gain a more structured perspective on my viewing habits and mood variations caused by menstruation in an objective manner.
 
 
+
 # Objectives
 - **Identify Behavioral Patterns**: Explore whether there is a correlation between my menstruation and genres of the content that I watch.
   
 - **Analyze Correlations**: Utilize statistical techniques to measure relationships between my menstruation, genre preferences, and viewing duration.
   
 - **Apply Data Science Skills**: Use statistical techniques learned in DSA210 course to analyze data effectively.
+
   
 
 # Hypothesis
@@ -68,5 +71,14 @@ By analyzing  these patterns, I aim to determine whether menstruation influences
 --
 
 I'm looking foeward to analyzing the data gaining a clearer understandingg of how my menstruation period affects my viewing habits, making this project a valuable exploration of my entertainment preferences.
+
+
+# Data Sources
+- **Apple Health App**: Menstruation dates are collected since 2019 and I created a TXT file by using this information.
+[menstruation_dates.csv.txt](https://github.com/user-attachments/files/19168553/menstruation_dates.csv.txt)
+- **Netflix Viewing History**: This data is provided by Netflix and I access the data that has recorded since 2018.
+[Uploading NetflixViewingHistory.csv…]()
+
+
 
   

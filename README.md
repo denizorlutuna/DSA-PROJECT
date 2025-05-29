@@ -93,4 +93,9 @@ Machine learning models showed moderate success in predicting menstruation perio
 
 The results suggest that mood-linked behavioral shifts can be captured via digital footprints, opening the door to more personalized recommendation systems and self-awareness through data.
 
+Additionally, analysis of weekly and seasonal viewing patterns indicated that features like weekday and season meaningfully enrich the dataset. For example, Sundays and winter months were associated with higher view counts and a stronger tendency toward specific genres like drama or comedy. These insights helped improve the ML feature set and supported the broader investigation into behavioral patterns influenced by menstruation.
+This project demonstrates that personal behavioral data—when properly structured and analyzed—can reveal meaningful insights. The menstrual cycle shows a statistically significant association with Netflix genre preferences but not with total viewing time.
 
+Machine learning models showed moderate success in predicting menstruation periods from viewing behavior, with Random Forest offering the best balance of accuracy and robustness.
+
+The results suggest that mood-linked behavioral shifts can be captured via digital footprints, opening the door to more personalized recommendation systems and self-awareness through data.
